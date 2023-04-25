@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048673895057",
+    "project_id": "savebilby-29c2e",
+    "storage_bucket": "savebilby-29c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048673895057:android:2569da5ea7033c53b77530",
+        "android_client_info": {
+          "package_name": "com.atinitu.save_the_bilby_fund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048673895057-81got4fjto2gf52okc1ulou1lcogheol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPx-1kKhn-k-zdVjUtgVZYGchIym-XKGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048673895057-81got4fjto2gf52okc1ulou1lcogheol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
